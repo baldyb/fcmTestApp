@@ -58,8 +58,16 @@ freeline/
 freeline_project_description.json
 
 # fastlane
+<<<<<<< HEAD
 fastlaneTry /report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+=======
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+>>>>>>> 5414c3e19d70c5625820d9b5d9987004898c25ca
